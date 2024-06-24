@@ -21,3 +21,13 @@
   max-width: 350px;
   margin-top: 140px;
 }
+h1{
+  font-size: 34px;
+}
+.square{
+  height: 12px;
+  width: 12px;
+  display: inline-block;
+  background: #f67c92;
+  margin: 15px 0;
+}

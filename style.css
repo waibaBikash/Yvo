@@ -117,3 +117,13 @@ nav ul li a{
   margin-right: 100px;
   display: inline-block;
  }
+ .about-text h2{
+  margin: 50px 0px 10px;
+  font-size: 28px;
+  font-style: italic;
+ }
+ .about-text h3{
+  font-size: 20px;
+  font-style: italic;
+  color: #797979;
+ }

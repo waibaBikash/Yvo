@@ -66,3 +66,15 @@ p{
   background: #f67c92;
   display: inline-block;
 }
+.line{
+  line-height: 8px;
+}
+#sideNav{
+  width: 250px;
+  height: 100vh;
+  position: fixed;
+  right: 0;
+  top: 0;
+  background: #f67c92;
+  z-index: 2;
+}

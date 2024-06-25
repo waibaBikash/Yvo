@@ -170,16 +170,12 @@ nav ul li a{
  .course-row{
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
+  justify-content: space-between;
  }
- .course-right-col{
-  flex-basis: 50%;
+ .course-text button{
+  margin: 32px 0;
  }
  .course-right-col img{
-  width: 100%;
+  height: 840px;
  }
- .course-left-col{
-  flex-basis: 50%;
- }
-
  

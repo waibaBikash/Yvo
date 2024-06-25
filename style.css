@@ -165,20 +165,21 @@ nav ul li a{
  }
  /* ####### courses ########## */
  #courses{
-  padding: 100px 0px;
+  padding: 100px 0;
  }
  .course-row{
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  
  }
  .course-right-col{
   flex-basis: 50%;
  }
-  .course-right-col img{
+ .course-right-col img{
   width: 100%;
- } 
+ }
  .course-left-col{
   flex-basis: 50%;
  }
+
+ 

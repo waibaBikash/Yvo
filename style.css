@@ -171,6 +171,7 @@ nav ul li a{
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  
  }
  .course-right-col{
   flex-basis: 50%;

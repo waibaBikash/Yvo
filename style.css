@@ -96,7 +96,7 @@ nav ul li a{
   cursor: pointer;
 }
  /* ####### about ######### */
- #about{
+ #about,#offer{
   padding: 100px 0;
   display: flex;
   align-items: center;
@@ -173,9 +173,13 @@ nav ul li a{
   justify-content: space-between;
  }
  .course-text button{
-  margin: 32px 0;
+  margin: 30px 0;
  }
  .course-right-col img{
   height: 840px;
  }
+ #offer button{
+  margin: 30px 0;
+ }
+
  

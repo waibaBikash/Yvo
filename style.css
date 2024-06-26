@@ -176,7 +176,8 @@ nav ul li a{
   margin: 30px 0;
  }
  .course-right-col img{
-  height: 840px;
+  height: 540px;
+  padding-left: 360px;
  }
  #offer button{
   margin: 30px 0;
@@ -188,6 +189,8 @@ nav ul li a{
   justify-content: space-between;
 }
 .contact-right-col img{
-  height: 650px;
+  height: 550px;
+  padding-right: 0;
+  padding-left: 360px;
 }
  

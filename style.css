@@ -169,20 +169,27 @@ nav ul li a{
  }
  .course-row{
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  justify-content: space-around;
  }
  .course-text button{
   margin: 30px 0;
  }
  .course-right-col img{
   height: 540px;
-  padding-left: 360px;
+  padding-right: 0;
+  padding-left: 200px;
+  padding-bottom: 0;
  }
- #offer button{
+ .course-text p{
+  display: inline;
+  padding-left: 20px;
+ }
+
+ 
+/* contact */
+#offer button{
   margin: 30px 0;
  }
-/* contact */
 .contact-row{
   display: flex;
   align-items: center;

@@ -260,7 +260,6 @@ hr{
 .footer-info{
   display: flex;
   align-items: center;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 .footer-logo img{

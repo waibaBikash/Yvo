@@ -283,3 +283,9 @@ hr{
   transform: translateY(-50%);
   z-index: 1;
 }
+.social-icons img{
+  display: block;
+  width: 20px;
+  margin: 0 auto 20px;
+  cursor: pointer;
+}

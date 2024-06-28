@@ -274,3 +274,12 @@ hr{
   flex-basis: 40%;
 }
  
+/* social-icon */
+.social-icons{
+  width: 50px;
+  position: fixed;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  z-index: 1;
+}

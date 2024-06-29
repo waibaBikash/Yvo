@@ -337,4 +337,15 @@ h1{
   .about-text h2{
     font-size: 18px;
   }
+  .feature-col{
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+  .course-left-col{
+    flex-basis: 100%;
+  }
+  .course-right-col{
+    flex-basis: 100%;
+    margin-top: 50px;
+  }
 }

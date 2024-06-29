@@ -318,11 +318,14 @@ h1{
   font-size: 25px;
  }
  #menuBtn{
-  width: 50px;
-  position: fixed;
-  right: 64px;
-  top: 35px;
-  z-index: 2;
-  cursor: pointer;
+  width: 40px;
+  right: 50px
  }
+  .common-btn{
+    padding: 10px 16px;
+  }
+  .social-icons img{
+    width: 14px;
+    margin: 15px auto;
+  }
 }

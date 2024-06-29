@@ -317,5 +317,13 @@ hr{
 }
 h1{
   font-size: 25px;
-}
+ }
+ #menuBtn{
+  width: 50px;
+  position: fixed;
+  right: 64px;
+  top: 35px;
+  z-index: 2;
+  cursor: pointer;
+ }
 }

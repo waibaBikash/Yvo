@@ -348,4 +348,8 @@ h1{
     flex-basis: 100%;
     margin-top: 50px;
   }
+  .cantact-left-col,.contact-right-col{
+    flex-basis: 100%;
+    margin-top: 50px;
+  }
 }
